@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 初然的博客</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on 初然的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Churannas.site</copyright>
+        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>归档</title>
+        <link>http://localhost:1313/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
+&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
+&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
+&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
+&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>链接Links</title>
+        <link>http://localhost:1313/%E9%93%BE%E6%8E%A5links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/%E9%93%BE%E6%8E%A5links/</guid>
+        <description>&lt;h3 id=&#34;有问题请进群及时反馈&#34;&gt;有问题请进群及时反馈
+&lt;/h3&gt;&lt;h6 id=&#34;进群链接linkhttpsqmqqcomqsctxylcacw-进群链接link&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://qm.qq.com/q/SCtXYLcacw&#34;  title=&#34;进群链接Link&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;进群链接Link&lt;/a&gt;
+&lt;/h6&gt;&lt;h5 id=&#34;初然的minecraft服务器服务器暂不可用&#34;&gt;初然的Minecraft服务器~(服务器暂不可用)
+&lt;/h5&gt;&lt;h6 id=&#34;mcchurannassite仅支持littleskincn进行外置登录&#34;&gt;mc.churannas.site(仅支持littleskin.cn进行外置登录)
+&lt;/h6&gt;&lt;p&gt;登录服务器:https://littleskin.cn/api/yggdrasil&lt;/p&gt;
+&lt;h5 id=&#34;初然的minecraft服务器整合包下载链接-点击下载httpspanchurannassiteddatae69cace7ab99e69687e4bbb6windowsgame1192e69aaee889b2e695b4e59088e58c85exe-初然的minecraft服务器整合包下载链接-点击下载&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.churannas.site/d/Data/%E6%9C%AC%E7%AB%99%E6%96%87%E4%BB%B6/Windows/Game/1.19.2%E6%9A%AE%E8%89%B2%E6%95%B4%E5%90%88%E5%8C%85.exe&#34;  title=&#34;初然的Minecraft服务器整合包下载链接~ (点击下载)&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;初然的Minecraft服务器整合包下载链接~ (点击下载)&lt;/a&gt;
+&lt;/h5&gt;&lt;h4 id=&#34;初然的bilibili主页httpsspacebilibilicom443211409-初然的bilibili主页&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/443211409&#34;  title=&#34;初然的Bilibili主页~&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;初然的Bilibili主页~&lt;/a&gt;
+&lt;/h4&gt;&lt;h4 id=&#34;初然的bilibili直播间httpslivebilibilicom31804746--初然的bilibili直播间&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://live.bilibili.com/31804746&#34;  title=&#34;初然的Bilibili直播间~&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;初然的Bilibili直播间~&lt;/a&gt;
+&lt;/h4&gt;&lt;h3 id=&#34;资源友情链接&#34;&gt;资源友情链接
+&lt;/h3&gt;&lt;h4 id=&#34;朱朱网盘资源分享httpspanwinboardtop-朱朱网盘资源分享&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.winboard.top&#34;  title=&#34;朱朱网盘资源分享&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;朱朱网盘资源分享&lt;/a&gt;
+&lt;/h4&gt;&lt;h4 id=&#34;桜井资源站httpsdrivesakuraikaedecom-桜井资源站已挂载可直接进行访问&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.sakuraikaede.com/&#34;  title=&#34;桜井资源站&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;桜井资源站&lt;/a&gt;（已挂载可直接进行访问）
+&lt;/h4&gt;&lt;h5 id=&#34;感谢桜井的帮助与支持&#34;&gt;感谢桜井的帮助与支持
+&lt;/h5&gt;&lt;h3 id=&#34;捐赠方式paypal支付宝alipay微信wechat&#34;&gt;捐赠方式(Paypal/支付宝Alipay/微信Wechat)
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.paypal.me/ChuranO&#34;  title=&#34;Paypal&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Paypal&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&#34;支付宝alipay&#34;&gt;支付宝Alipay:
+&lt;/h5&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.churannas.site/d/Data/icon/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg?sign=H1EAEeU6Qd_NcXxlLrofhJP-ccCLEpPkz8AmqDwXhUw=:0&#34;  title=&#34;支付宝捐赠链接&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://pan.churannas.site/d/Data/icon/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg?sign=H1EAEeU6Qd_NcXxlLrofhJP-ccCLEpPkz8AmqDwXhUw=:0&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;支付宝捐赠链接&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&#34;微信捐赠码&#34;&gt;微信捐赠码
+&lt;/h5&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pan.churannas.site/d/Data/icon/%E6%8D%90%E8%B5%A0%E7%A0%81.jpg?sign=bOBMmzC15deiv218X1cD2oYkl5oV9wYM5HLawmk-Gu0=:0&#34;  title=&#34;微信捐赠码链接&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://pan.churannas.site/d/Data/icon/%E6%8D%90%E8%B5%A0%E7%A0%81.jpg?sign=bOBMmzC15deiv218X1cD2oYkl5oV9wYM5HLawmk-Gu0=:0&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;微信捐赠码链接&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>http://localhost:1313/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
